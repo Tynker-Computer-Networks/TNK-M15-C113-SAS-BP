@@ -4,9 +4,7 @@ Resize the Game Canvas
 
 In this activity, you will learn to resize the game canvas and its elements to fit the screen size.
 
-
 <img src= "https://media.slid.es/uploads/1525693/images/10883190/SA2.png” width = "480" height = "320">
-
 
 Follow the given steps to complete this activity:
 
